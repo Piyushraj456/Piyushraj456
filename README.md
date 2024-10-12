@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hey there! I'm **Piyush Raj** 👋, a passionate **MERN stack developer** 🚀 currently working on an exciting **SaaS product** 💼. I'm always looking forward to collaborating 🤝 on innovative projects and diving into the latest tech trends! Feel free to reach out if you want to connect or brainstorm new ideas 💡.
+
+📩 **Contact me** at: **vrnpiyush.work@gmail.com**
+
 
 
 # 💻 Tech Stack:
